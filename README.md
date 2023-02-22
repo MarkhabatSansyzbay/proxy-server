@@ -27,3 +27,7 @@ Server forms valid HTTP-request to 3rd-party service with data from client's mes
 ```
 Server has map to store requests from client and responses from 3rd-party service.
 
+## Usage
+```
+make run
+```
